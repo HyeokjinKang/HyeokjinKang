@@ -10,5 +10,7 @@
 📝 I am planning on learning <strong>NodeGui</strong> and <strong>React</strong>.<br>
 🎶 I really like music. I even <a href="https://github.com/HyeokjinKang/Music">made it</a>!
 <br><br>
+  
 [![Coupy's github stats](https://github-readme-stats.vercel.app/api?username=HyeokjinKang&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
