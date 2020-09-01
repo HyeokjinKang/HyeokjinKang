@@ -1,4 +1,4 @@
-![header](images/Coupy_github.png)
+![header](https://github.com/HyeokjinKang/HyeokjinKang/blob/master/images/Coupy_github.png)
 > World's best stupid developer
 <div align="center" style="text-align: center;">
 
