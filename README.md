@@ -1,4 +1,4 @@
-![header](https://github.com/HyeokjinKang/HyeokjinKang/blob/master/images/Coupy_github.png)
+![header](https://github.com/HyeokjinKang/HyeokjinKang/blob/master/images/header.png)
 <div align="center" style="text-align: center;">
 <blockquote>World's best stupid developer</blockquote>
 <h3>Technical Artist</h3>
