@@ -1,6 +1,6 @@
 ![header](https://github.com/HyeokjinKang/HyeokjinKang/blob/master/images/Coupy_github.png)
-> World's best stupid developer
 <div align="center" style="text-align: center;">
+<blockquote>World's best stupid developer</blockquote>
 <h3>Technical Artist</h3>
 🥐 Working as a <strong>Technical Artist</strong> at <strong>Team Croissant</strong>.<br>
 🎮 Team Croissant is a sweet team that I run and make <a href="https://github.com/Team-Croissant/URLATE">URLATE</a>.
