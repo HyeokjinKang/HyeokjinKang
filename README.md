@@ -1,6 +1,11 @@
 ![header](https://github.com/HyeokjinKang/HyeokjinKang/blob/master/images/Coupy_github.png)
 > World's best stupid developer
-<div align="center" style="text-align: center;">
+<div style="float: left; width: 50%;">
+
+[![Coupy's github stats](https://github-readme-stats.vercel.app/api?username=HyeokjinKang&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<div style="float: left; width: 50%;">
 <h3>Technical Artist</h3>
 🥐 Working as a <strong>Technical Artist</strong> at <strong>Team Croissant</strong>.<br>
 🎮 Team Croissant is a sweet team that I run and make <a href="https://github.com/Team-Croissant/URLATE">URLATE</a>.
@@ -9,8 +14,4 @@
 📚 When I study programming, I usually do a <a href="https://github.com/HyeokjinKang/Nodejs-BOJ">PS</a> or make a toy project.<br>
 📝 I am planning on learning <strong>NodeGui</strong> and <strong>React</strong>.<br>
 🎶 I really like music. I even <a href="https://github.com/HyeokjinKang/Music">made it</a>!
-<br><br>
-  
-[![Coupy's github stats](https://github-readme-stats.vercel.app/api?username=HyeokjinKang&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
