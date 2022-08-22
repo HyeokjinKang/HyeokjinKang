@@ -1,9 +1,6 @@
 ![header](https://github.com/HyeokjinKang/HyeokjinKang/blob/master/images/github_profile.png)
 <div align="center" style="text-align: center;">
-  <blockquote>Dumb</blockquote>
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyukjinkang)](https://solved.ac/hyukjinkang)
-  
+  <blockquote>Dumb</blockquote> 
   <h3>About me</h3>
   ✨ I work with <strong>Node.js</strong>, <strong>Python</strong>, <strong>Web</strong> and my hobby is <strong>Arduino</strong>.<br>
   📚 When I study programming, I usually do a <a href="https://github.com/HyeokjinKang/Nodejs-BOJ">PS</a> or make a toy project.<br>
