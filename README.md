@@ -3,4 +3,4 @@
 🇰🇷 Based in Seoul  
 🧑‍💻 Software engineering
 
-[<img src="https://coupy-readme-widg-24.deno.dev/recently-played" height="150" />](https://coupy-readme-widg-24.deno.dev/redirect?to=recently-played)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xbqfkl3saj3hizrendisxq4gc4&count=3)
