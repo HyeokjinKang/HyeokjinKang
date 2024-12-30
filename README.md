@@ -3,4 +3,4 @@
 🇰🇷 Based in Seoul  
 🧑‍💻 Software engineering
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xbqfkl3saj3hizrendisxq4gc4&count=3)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Coupy1024&header_size=normal&footer_style=compact_stats&count=3)
